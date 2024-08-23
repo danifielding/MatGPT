@@ -18,7 +18,7 @@ README.md: This document.
 
 # Setup and Installation
 1.) Clone the Repository.
-* git clone git@github.com:your-username/MATLAB-ChatGPT-Integration.git
+* git clone git@github.com:your-username/matgpt.git
 * cd MATLAB-ChatGPT-Integration
 
 2.) Add Your OpenAI API Key:
