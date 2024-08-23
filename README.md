@@ -1,6 +1,6 @@
 # matgpt
 
-This project integrates OpenAI's ChatGPT API with MATLAB, enabling users to interact with the GPT-4 model directly from the MATLAB IDE. The project provides a seamless way to send prompts to the ChatGPT model and retrieve AI-generated responses in real-time. This integration can be used for automated MATLAB scripting, data analysis, or educational purposes.
+This project integrates OpenAI's ChatGPT API with MATLAB. It provides a seamless way to send prompts to the any OpenAI LLM model and retrieve AI-generated responses in real-time. This integration can be used for automated MATLAB scripting, data analysis, or educational purposes.
 
 # Features
 * HTTP communication: Utilizes MATLAB's webwrite function to send POST requests to the OpenAI API.
