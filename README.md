@@ -4,7 +4,7 @@ This project integrates OpenAI's ChatGPT API with MATLAB. It provides a seamless
 
 # Features
 * HTTP communication:
-*   Utilizes MATLAB's webwrite function to send POST requests to the OpenAI API.
+* * Utilizes MATLAB's webwrite function to send POST requests to the OpenAI API.
 * Customizable API calls: Easily modify the prompts and other parameters to tailor the interaction with ChatGPT.
 * Response handling: Parses and displays the response from ChatGPT directly in the MATLAB console.
 
