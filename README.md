@@ -40,7 +40,7 @@ This project integrates OpenAI's ChatGPT API with MATLAB. It provides a seamless
 # Usage of "chatgpt.m"
 This function sends a prompt to the OpenAI ChatGPT API and returns the model's response.
 
-# Usage of run_chatgpt.m"
+# Usage of "run_chatgpt.m"
 This script demonstrates how to use the chatgpt.m function with a sample prompt.
 
 # Contributions 
