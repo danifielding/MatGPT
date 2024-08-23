@@ -7,7 +7,7 @@ This project integrates OpenAI's ChatGPT API with MATLAB, enabling users to inte
 * Customizable API Calls: Easily modify the prompts and other parameters to tailor the interaction with ChatGPT.
 * Response Handling: Parses and displays the response from ChatGPT directly in the MATLAB console.
 
-#Prerequisites
+# Prerequisites
 * MATLAB: Ensure MATLAB is installed on your system.
 * OpenAI API Key: Obtain an API key from OpenAI.
 
