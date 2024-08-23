@@ -18,14 +18,14 @@ This project integrates OpenAI's ChatGPT API with MATLAB. It provides a seamless
 
 # File Structure
 * chatgpt.m:
-  * The main function that makes HTTP calls to the OpenAI API.
+  * The main function that makes HTTP calls to the OpenAI API
 * run_chatgpt.m:
-  * A script that demonstrates how to use the chatgpt.m function with a sample prompt.
+  * A script that demonstrates how to use the chatgpt.m function with a sample prompt
 * README.md:
-  * This document.
+  * This document
 
 # Setup and Installation
-1.) Clone the Repository.
+1.) Clone the Repository:
 * git clone git@github.com:your-username/matgpt.git
 * cd MATLAB-ChatGPT-Integration
 
